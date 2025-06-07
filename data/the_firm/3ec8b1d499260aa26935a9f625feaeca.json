@@ -1,0 +1,163 @@
+{
+  "ID": "3ec8b1d499260aa26935a9f625feaeca",
+  "Artist": "The Firm",
+  "Date": "1984-12-04",
+  "Venue": "Konzertsaal im Pfalzbau, Ludwigshafen am Rhein, Germany",
+  "Lineage": "Master",
+  "Source": "Audience",
+  "Info": "VGhlIEZpcm0gDQpMdWR3aWdzaGFmZW4sIFBmYWx6YmF1IA0KMTUuIERlemVtYmVyIDE5ODQNCg0KVHJhY2tsaXN0CQlwbGF5dGltZTogICAgIDEwOTo0OA0KDQowMSwpIENsb3NlciAJCQkJMzo0OA0KMDIuKSBDaXR5IFNpcmVucwkJCTU6MDINCjAzLikgTWFrZSB1cCBvciBicmVhayB1cAkJNToyMg0KMDQuKSBNb3JuaW5nIEFmdGVyCQkJNDozNA0KMDUuKSBUb2dldGhlcgkJCQk0OjA3DQowNi4pIENhZGlsbGFjIAkJCQk1OjM3DQowNy4pIFByZWx1ZGUgCQkJCTI6MDINCjA4LikgTW9uZXkgQ2FuJ3QgQnV5IAkJCTQ6MDQNCjA5LikgUmFkaW9hY3RpdmUgCQkJMzozNQ0KMTAuKSBMaXZlIEluIFBlYWNlIAkJCTU6MzUNCjExLikgTWlkbmlnaHQgTW9vbmxpZ2h0IChTd2FuIFNvbmcpIAkxMjowNQ0KMTIuKSBZb3UndmUgbG9zdCB0aGF0IExvdmluZyBGZWVsaW4nCTU6NTINCjEzLikgVGhlIENhc2UJCQkJNjo0NA0KMTQuKSBKaW1teSBQYWdlIEd1aXRhciBTb2xvIAkJODoyNg0KMTUuKSBEcnVtIFNvbG8gKENocmlzIFNsYWRlKQkJNjoyMQ0KMTYuKSBTb21lb25lIHRvIExvdmUJCQk0OjUzDQoxNy4pIEZ1bGwgQ2lyY2xlCQkJNTozNw0KDQpFbmNvcmUNCjE4LikgQm9vZ2llIE1hbWEgCQkJNjozMA0KMTkuKSBFdmVyeWJvZHkgTmVlZHMgU29tZWJvZHkgVG8gTG92ZSAJOTozNA0KDQoNCg0KDQpTb3VyY2U6IEF1ZCBNYXN0ZXIgQWl3YSBXYWxrbWFuIHdpdGggSW50ZXJuYWwgTWljLg0KaW5jbC4gQXJ0d29yayAgVDA0OUENCg0KDQorKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrDQorKysrKysrKysrKytEbyBub3QgY29udmVydCB0byBNUDMrKysrKysrKysrKysrKysNCisrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysNCisrKysrKysrKysrRG8gbm90IGJ1eSBvZGVyIHNlbGwgaXQrKysrKysrKysrKysrKysrKw0KKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKw0KKysrKysrKysrKyt0aGUgdGFrZXMgbm90IGZyb20gYW55IGJvb3RsZWcrKysrKysrKysrKw0KKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKw0KDQo=",
+  "Tracks": [
+    {
+      "SampleCount": 10068324,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "7f9bc3dc395f23b07bd9ceeff028c832",
+      "Title": "Closer"
+    },
+    {
+      "SampleCount": 13354068,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "4907c3cc3e2f3802e7193403f1ecaf50",
+      "Title": "City Sirens"
+    },
+    {
+      "SampleCount": 14206080,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "493384878432fea51c56f0e58ecb8714",
+      "Title": "Make or Break"
+    },
+    {
+      "SampleCount": 12105156,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "ffbf4bd6cc6cde0d87d3cbe843afb04d",
+      "Title": "Morning After the Night Before"
+    },
+    {
+      "SampleCount": 10900932,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "a1e0cef2a2dd198c52f48548d8e8c3fb",
+      "Title": "Together"
+    },
+    {
+      "SampleCount": 14865816,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "e6f7b55aaafdcd626f7c665e249f1816",
+      "Title": "Cadillac"
+    },
+    {
+      "SampleCount": 5387844,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "adecfb18884e4f7e3961a8739202e276",
+      "Title": "Prelude"
+    },
+    {
+      "SampleCount": 10788624,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "9de1ccab997a370c7c5eef2ecdbc72da",
+      "Title": "Money Can\u0027t Buy"
+    },
+    {
+      "SampleCount": 9510980,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "ba6be3afca82e1abb89a3af404c05d57",
+      "Title": "Radioactive"
+    },
+    {
+      "SampleCount": 14790723,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "7b4cb64d47ad4e5ec7b18b8fa2915c45",
+      "Title": "Live in Peace"
+    },
+    {
+      "SampleCount": 32014836,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "22cf89deeed25895532b04e676e2acf5",
+      "Title": "Midnight Moonlight"
+    },
+    {
+      "SampleCount": 15546720,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "4ebac719d93b53c74cdddb1178618a3c",
+      "Title": "You\u0027ve Lost That Lovin\u0027 Feelin\u0027"
+    },
+    {
+      "SampleCount": 17832864,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "2d037d962e42e53111bb57d4aa7f9afc",
+      "Title": "The Chase"
+    },
+    {
+      "SampleCount": 22349292,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "f0de85f7868f57c5e9bf9aea987101c5",
+      "Title": "[guitar solo]"
+    },
+    {
+      "SampleCount": 16827384,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "b0f40434c9c791b64429da575a93a09b",
+      "Title": "[drum solo]"
+    },
+    {
+      "SampleCount": 12934645,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "426ff8a0cb83eccebe3ead2e81559e5d",
+      "Title": "Someone to Love"
+    },
+    {
+      "SampleCount": 14895216,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "b671d3f85571f9991d8a489150d820bd",
+      "Title": "Full Circle"
+    },
+    {
+      "SampleCount": 17234280,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "99fc8c46f7701b3c73ac0eece98314b2",
+      "Title": "Boogie Mama"
+    },
+    {
+      "SampleCount": 25341193,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "04957b38492d8d99faa8380d8571a9ba",
+      "Title": "Everybody Needs Somebody to Love"
+    }
+  ]
+}

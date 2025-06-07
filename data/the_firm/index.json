@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "347e4b03356a17fc9268fab0017515b4",
+    "Artist": "The Firm",
+    "Date": "1984-12-08",
+    "Venue": "Hammersmith Odeon, London, England",
+    "Source": "Audience",
+    "Lineage": "1st Gen",
+    "file": "347e4b03356a17fc9268fab0017515b4.json"
+  },
+  {
+    "ID": "3ec8b1d499260aa26935a9f625feaeca",
+    "Artist": "The Firm",
+    "Date": "1984-12-04",
+    "Venue": "Konzertsaal im Pfalzbau, Ludwigshafen am Rhein, Germany",
+    "Source": "Audience",
+    "Lineage": "Master",
+    "file": "3ec8b1d499260aa26935a9f625feaeca.json"
+  },
+  {
+    "ID": "7b5679b87ef5be51d1ff5de757426410",
+    "Artist": "The Firm",
+    "Date": "1984-12-03",
+    "Venue": "Kongresshalle, Frankfurt, Germany",
+    "Source": "Audience",
+    "Lineage": "Unknown",
+    "file": "7b5679b87ef5be51d1ff5de757426410.json"
+  },
+  {
+    "ID": "ca561bf060234d653cb8c7353f9f6149",
+    "Artist": "The Firm",
+    "Date": "1984-11-29",
+    "Venue": "Göta Lejon, Stockholm, Sweden",
+    "Source": "Audience",
+    "Lineage": "Master",
+    "file": "ca561bf060234d653cb8c7353f9f6149.json"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "title": "Live at Wembley",
+  "duration": "1:23:45",
+  "recordedDate": "1974-11-16",
+  "location": "Wembley Stadium, London",
+  "tracks": [
+    { "title": "Shine On You Crazy Diamond", "length": "13:30" },
+    { "title": "Time", "length": "6:50" }
+  ]
+}

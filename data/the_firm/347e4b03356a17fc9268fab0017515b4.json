@@ -1,0 +1,179 @@
+{
+  "ID": "347e4b03356a17fc9268fab0017515b4",
+  "Artist": "The Firm",
+  "Date": "1984-12-08",
+  "Venue": "Hammersmith Odeon, London, England",
+  "Lineage": "1st Gen",
+  "Source": "Audience",
+  "Info": "SSBSZWNlaXZlZCB0aGlzIGZyb20gZGF0Zmx5IGFzIG9uZSBmbGFjIGZpbGUuIFRoYW5rcyEgDQoNClRyYWNraW5nIHdhcyBkb25lIHdpdGggQ0QgV2F2ZSBFZGl0b3IuIA0KDQpBcnRpc3Q6IFRoZSBGaXJtIA0KU291cmNlOiBIYW1tZXJzbWl0aCBPZGVvbiwgTG9uZG9uLCBFbmdsYW5kLiBEZWNlbWJlciA4dGggMTk4NA0KVGltZTogRGlzYyAxOiA1NzozMg0KRGlzYyAyOiA1OToyMw0KTm90ZXM6IDFzdCBnZW4uDQpEaXNjIDE6DQoxLiBJbnRybyAoMToyOCkNCjIuIENsb3NlciAoMzo1NykNCjMuIENpdHkgU2lyZW5zICg1OjEzKQ0KNC4gTWFrZSBPciBCcmVhayAoNToyNikNCjUuIE1vcm5pbmcgQWZ0ZXIgVGhlIE5pZ2h0IEJlZm9yZSAoNDo0MCkNCjYuIFRvZ2V0aGVyICg0OjEwKQ0KNy4gQ2FkaWxsYWMgKDU6NDQpDQo4LiBQcmVsdWRlICgxOjU5KQ0KOS4gTW9uZXkgQ2FuJ3QgQnV5ICg0OjExKQ0KMTAuIFJhZGlvYWN0aXZlICgzOjQ1KQ0KMTEuIExpdmUgSW4gUGVhY2UgKDU6NTkpDQoxMi4gTWlkbmlnaHQgTW9vbmxpZ2h0ICgxMTowMCkNCkRpc2MgMjoNCjEuIFlvdSd2ZSBMb3N0IFRoYXQgTG92aW4nIEZlZWxpbicgKDY6MjApDQoyLiBCYXNzIFNvbG8gKDM6MDUpDQozLiBUaGUgQ2hhc2UgKDQ6MDUpDQo0LiBHdWl0YXIgU29sbyAoNjoxMykNCjUuIERydW0gU29sbyAoNjo0NikNCjYuIFNvbWVvbmUgVG8gTG92ZSAoNToyOSkNCjcuIEZ1bGwgQ2lyY2xlICg3OjI5KQ0KOC4gQm9vZ2llIE1hbWEgKDk6MTApDQo5LiBFdmVyeWJvZHkgTmVlZHMgU29tZWJvZHkgVG8gTG92ZSAoMTA6NDYpDQoNClNoYXJlZCBvbiBkaW1lIGJ5IHRvbnNvZnNvYnMgRGVjZW1iZXIgMjAxNi4gDQoNCkknbSBzZWFyY2hpbmcgZm9yIGFueSBGaXJtIHNob3dzLCBidXQgdGhpcyBzaG93IHNwZWNpZmljYWxseSBhcyBJIGtub3cgaXQgZXhpc3RzLiANCg0KVGhlIEZpcm0gLSAwNS4wMS44NSAtIENhcGl0YWwgQ2VudHJlLCBMYW5kb3ZlciwgTUQgDQoNCkknbSBsb29raW5nIGZvciBhIG5ldyB0cmFuc2ZlciBvZiB0aGUgZm9sbG93aW5nIG1hc3RlciAocHJldmlvdXNseSBvbiBkaW1lKSBhcyBpdCBoYXMgZGlnaXRhbCBnbGl0Y2hlcyBvbiB0aGUgbGFzdCB0d28gb3IgdGhyZWUgc29uZ3MuIFRvIGJlIGRldGFpbGVkIGl0IGlzIGxpdHRlcmVkIHdpdGggZGlnaXRhbCBnYXBzIGNhdXNpbmcgbWlzc2luZyBtdXNpYy4gDQoNClRoZSBGaXJtIC0gMDQuMjkuODUgLSBNYWRpc29uIFNxdWFyZSBHYXJkZW4sIE5ldyBZb3JrLCBOWSANCg0KSWYgeW91IGhhdmUgYW55IEZpcm0gc2hvd3MsIGVzcGVjaWFsbHkgaWYgc3RpbGwgb24gY2Fzc2V0dGUsIFBMRUFTRSBjb250YWN0IG1lIQ==",
+  "Tracks": [
+    {
+      "SampleCount": 3871392,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "fa4ee1231224060e025e56c1ad3e44c8",
+      "Title": "[intro]"
+    },
+    {
+      "SampleCount": 10456404,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "e8219d2a478cb05ca763ecefa008509e",
+      "Title": "Closer"
+    },
+    {
+      "SampleCount": 13788012,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "1ab37a5f2bd9e6eb321831a00cc3868a",
+      "Title": "City Sirens"
+    },
+    {
+      "SampleCount": 14360136,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "439d6842a90e8db08153dc3a50770de5",
+      "Title": "Make or Break"
+    },
+    {
+      "SampleCount": 12360348,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "3d6fee9653d4730d0c7f61be4ed46e13",
+      "Title": "Morning After the Night Before"
+    },
+    {
+      "SampleCount": 11022648,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "f800876ee9793e76384ecbfa69e8d3b1",
+      "Title": "Together"
+    },
+    {
+      "SampleCount": 15188040,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "a08257642cd4fb3638ecc9157348b4b5",
+      "Title": "Cadillac"
+    },
+    {
+      "SampleCount": 5250840,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "97b1e33b0dc6a60361f6ce0bafecb155",
+      "Title": "Prelude"
+    },
+    {
+      "SampleCount": 11082036,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "56d1143615fd2ac3d7f8b752480d5c31",
+      "Title": "Money Can\u0027t Buy"
+    },
+    {
+      "SampleCount": 9938964,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "553e91e555812b9eda87d090afa79d37",
+      "Title": "Radioactive"
+    },
+    {
+      "SampleCount": 15836604,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "04a76f4e040d3b885674601de0e44635",
+      "Title": "Live in Peace"
+    },
+    {
+      "SampleCount": 29113644,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "468ff5866878b933b6db03562b8cebe1",
+      "Title": "Midnight Moonlight"
+    },
+    {
+      "SampleCount": 16746240,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "48a7a8326e158bb0cf5834b50957340f",
+      "Title": "You\u0027ve Lost That Lovin\u0027 Feelin\u0027"
+    },
+    {
+      "SampleCount": 8150268,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "c0ba17ea089e7aaf4719751b2a758f30",
+      "Title": "[bass solo]"
+    },
+    {
+      "SampleCount": 10824492,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "25e13dfab424666a46e71c3a70a3ba80",
+      "Title": "The Chase"
+    },
+    {
+      "SampleCount": 16452828,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "8e8f7354b6dcffe5fc0954712a254aa5",
+      "Title": "[guitar solo]"
+    },
+    {
+      "SampleCount": 17908128,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "7ded2f404c14acdecf740b0f7d6ca537",
+      "Title": "[drum solo]"
+    },
+    {
+      "SampleCount": 14516544,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "6994ea3fd0749760a2b24700d19724d7",
+      "Title": "Someone to Love"
+    },
+    {
+      "SampleCount": 19804428,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "e920042e4f7adbf5dd21fbe603b55624",
+      "Title": "Full Circle"
+    },
+    {
+      "SampleCount": 24266760,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "5ef7e935d2eb9d346e5bedff0cc5dff5",
+      "Title": "Boogie Mama"
+    },
+    {
+      "SampleCount": 28479032,
+      "SampleRate": 44100,
+      "Channels": 2,
+      "SampleFormat": "s16",
+      "MD5": "51c10eb3319c733a3247cbd512678398",
+      "Title": "Everybody Needs Somebody to Love"
+    }
+  ]
+}
