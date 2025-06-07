@@ -22,7 +22,6 @@ def generate_index_json(folder_path):
                 "Lineage": data.get("Lineage")
             }
 
-            # Добавим имя файла для отладки или ссылки (опционально)
             entry["file"] = filename
 
             index_data.append(entry)
@@ -30,14 +29,11 @@ def generate_index_json(folder_path):
         except Exception as e:
             print(f"Ошибка при обработке файла {filename}: {e}")
 
-    # Сохраняем index.json
     output_path = os.path.join(folder_path, 'index.json')
     with open(output_path, 'w', encoding='utf-8') as out_file:
         json.dump(index_data, out_file, indent=2, ensure_ascii=False)
 
     print(f"index.json успешно создан: {output_path}")
 
-
-# 🔁 Вызов с текущей директорией, можно заменить на путь к нужной
 if __name__ == "__main__":
     generate_index_json(".")
