@@ -53,11 +53,10 @@ function showBootlegTable(bootlegs, artist) {
     row.addEventListener("click", () => {
       const existingDetailRow = row.nextElementSibling;
       if (existingDetailRow && existingDetailRow.classList.contains("details-row")) {
-        existingDetailRow.remove(); // свернуть, если уже открыт
+        existingDetailRow.remove();
         return;
       }
 
-      // закрыть другие открытые строки
       tbody.querySelectorAll(".details-row").forEach(r => r.remove());
 
       fetch(`data/${artist}/${bootleg.ID}.json`)
@@ -68,24 +67,45 @@ function showBootlegTable(bootlegs, artist) {
 
           const td = document.createElement("td");
           td.colSpan = 4;
-          td.innerHTML = `
-  <div class="bootleg-details-inline">
-    <strong>${data.title}</strong><br>
-    <em>${data.Date} — ${data.Venue}</em><br>
-    <strong>Duration:</strong> ${data.duration}<br>
-    <strong>Tracks:</strong>
-    <ul>
-      ${data.Tracks.map(track => `<li>${track.Title} (${track.MD5})</li>`).join("")}
-    </ul>
-    ${data.Info ? `
-      <div class="bootleg-notes">
-        <strong>Notes:</strong>
-        <pre>${decodeBase64(data.Info)}</pre>
-      </div>
-    ` : ''}
-  </div>
-`;
+		  
+		  const Tracks_table = document.createElement("table");
 
+		  for(let track=0; track < data.Tracks.length; track++)
+		  {
+			  const Track_details_Row = document.createElement("tr");
+
+			  Track_details_Row.innerHTML = `
+			  <td>${data.Tracks[track].Title}</td>
+			  <td>${data.Tracks[track].MD5}</td>
+			  <td>${data.Tracks[track].SampleFormat}</td>
+			  <td>${data.Tracks[track].Channels}</td>
+			  <td>${data.Tracks[track].SampleRate}</td>
+			  <td>${data.Tracks[track].SampleCount}</td>
+			  `;
+			  
+			  Tracks_table.appendChild(Track_details_Row);
+		  }
+		  
+		  detailsRow.appendChild(Tracks_table);
+		  
+		  
+          td.innerHTML = `
+		  <div class="bootleg-details-inline">
+		  //<strong>${data.title}</strong><br>
+		  <em>${data.Date} — ${data.Venue}</em><br>
+		  <strong>Duration:</strong> ${data.duration}<br>
+		  <strong>Tracks:</strong>
+		  <ul>
+		  ${data.Tracks.map(track => `<li>${track.Title} (${track.MD5})</li>`).join("")}
+		  </ul>
+		  ${data.Info ? `
+		  <div class="bootleg-notes">
+		  <strong>Notes:</strong>
+		  <pre>${decodeBase64(data.Info)}</pre>
+		  </div>
+		  ` : ''}
+		  </div>
+		  `;
 
           detailsRow.appendChild(td);
           row.after(detailsRow);
